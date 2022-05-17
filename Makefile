@@ -1,4 +1,5 @@
 include .env_example
+-include .env
 
 docker-list:
 	docker ps
